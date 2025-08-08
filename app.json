@@ -1,0 +1,13 @@
+{
+    "pages": [
+      "pages/index/index"
+    ],
+    "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#000000",
+      "navigationBarTitleText": "AI外教助手",
+      "navigationBarTextStyle": "white"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+  }
